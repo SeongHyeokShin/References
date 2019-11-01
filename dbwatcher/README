@@ -1,0 +1,40 @@
+                                    README
+
+                                 DBWatcher(TM) 3
+                                  Version 3.0.0
+
+
+Contents
+
+   * Introduction
+   * System Requirements
+   * Prerequisite
+
+
+Introduction
+
+      JAVA application that connect to the DB server. It sends inserted or
+      deleted data information to the Diquest IR Index Listener. Or, It
+      records data to files. 
+      
+
+System Requirements
+
+      - Windows NT 4.0, 2000, XP (or higher)
+      - Linux kernel 2.2.x, 2.4.x (or higher)
+      - Solaris(Sparc/Intel) 2.7, 2.8 (or higher)
+      - HP/UX(PA-RISC) 10.5, 11, 11i (or higher)
+      - IBM AIX 4.3.3, 5L (or higher)
+      - SCO-Unixware (or higher)
+      - Compaq TRUE-64/OSF-1 (or higher)
+
+
+Prerequisite
+
+      - JRE 1.2 or higher (prefer 1.4 and later)
+      - Java Beans Activation Frame (activation.jar)
+      - SMTP / POP3 mailing service (mail.jar)
+      - JDBC drivers
+
+
+* full documents are available in Microsoft WORD file (in Korean).
